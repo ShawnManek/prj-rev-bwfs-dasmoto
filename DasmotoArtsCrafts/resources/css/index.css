@@ -16,6 +16,10 @@ h2 {
   color: white;
 }
 
+p {
+  font-weight: normal;
+}
+
 .brushes {
   background-color: mediumspringgreen;
 }
@@ -28,6 +32,7 @@ h2 {
   background-color: skyblue;
 }
 
-p {
-  font-weight: normal;
+.price {
+  color: blue;
+  font-weight: bold;
 }
