@@ -14,14 +14,11 @@ h1 {
 h2 {
   font-size: 32px;
   color: white;
+  background-color: mediumspringgreen;
 }
 
 p {
   font-weight: normal;
-}
-
-.brushes {
-  background-color: mediumspringgreen;
 }
 
 .frames {
